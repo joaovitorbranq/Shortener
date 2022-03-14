@@ -1,13 +1,12 @@
 {
-  "author": "Keven Leone",
-  "description": "Encurtador de links...",
+  "author": "João Vitor Branquinho",
+  "description": "Encurtador de links",
   "license": "ISC",
   "main": "index.js",
   "name": "shortner",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
